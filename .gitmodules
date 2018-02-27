@@ -1,0 +1,4 @@
+[submodule "OCA/vertical-education"]
+	path = OCA/vertical-education
+	url = git@github.com:OCA/vertical-education.git
+	branch = 10.0
